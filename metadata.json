@@ -1,0 +1,6 @@
+{
+  "name": "Portal Akademik & CV Mahasiswa",
+  "description": "Halaman login mahasiswa berbasis NIM dan jenjang studi dengan akses ke CV Owner.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
